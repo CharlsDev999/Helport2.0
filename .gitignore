@@ -1,5 +1,1 @@
-```
-# Build artifacts
-*.html
-*.css
-```
+Nothing needs to be added to the .gitignore file since only a JavaScript source file was added and no build artifacts, dependencies, or temporary files were included in the changes.
